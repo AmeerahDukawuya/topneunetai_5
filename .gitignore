@@ -1,0 +1,35 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit generated files
+.streamlit/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.sqlite
+
+# Logs
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
